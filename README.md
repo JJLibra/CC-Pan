@@ -14,6 +14,7 @@ for Efficient Pan-Sharpening
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/IEEE%20TMM-Accepted-00629B" alt="Accepted by IEEE Transactions on Multimedia (TMM)">
   <a href="https://arxiv.org/abs/2602.04473">
     <img src="https://img.shields.io/badge/arXiv-2602.04473-b31b1b.svg" alt="arXiv">
   </a>
@@ -50,6 +51,7 @@ CC-Pan is a diffusion-based pan-sharpening framework that compresses multispectr
 </p> -->
 
 ## News
+- **[11/03/2026]** 🎉 Our paper **CC-Pan** has been accepted by **IEEE Transactions on Multimedia (TMM)**!
 <!-- ### 🚨 Announcing [](): A CVPR competition for AI-based xxxxxx! Submissions due xxx x. Don't miss out! 🤩  -->
 - **[02/01/2026]** Code will be released soon!
 <!-- - [04/30/2026] Pre-trained CC-Pan models are available on [Hugging Face Library](https://huggingface.co/xxfer/CC-Pan)! -->
@@ -457,7 +459,8 @@ If you find our work useful, please cite:
   title={CC-Pan: Channel-wise Compression based Diffusion for Efficient Pan-Sharpening},
   author={Junjie Li and Congyang Ou and Haokui Zhang and Guoting Wei and Shengqin Jiang and Ying Li},
   journal={arXiv preprint arXiv:2602.04473},
-  year={2026}
+  year={2026},
+  note={Accepted by IEEE Transactions on Multimedia (TMM)}
 }
 ```
 
